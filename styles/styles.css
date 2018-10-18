@@ -41,3 +41,15 @@ h6 {
 .font-1 {
   font-family: 'Permanent Marker', cursive;
 }
+
+#blub {
+  text-decoration: underline;
+}
+
+#yeet {
+  border-style: outset;
+}
+
+.size {
+  font-size: 14pt;
+}
