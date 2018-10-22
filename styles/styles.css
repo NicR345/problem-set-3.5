@@ -53,3 +53,15 @@ h6 {
 .size {
   font-size: 14pt;
 }
+
+ul + h5 {
+  font-weight: lighter;
+}
+
+ul > li {
+  text-align: justify;
+}
+
+h2 + ul {
+  text-align: justify;
+}
