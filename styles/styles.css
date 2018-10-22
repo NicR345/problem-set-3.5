@@ -1,4 +1,4 @@
-body {
+* {
   background-color: #A0522D
 }
 
@@ -64,4 +64,21 @@ ul > li {
 
 h2 + ul {
   text-align: justify;
+}
+
+#table {
+  color: yellow;
+  font-family: sans-serif;
+}
+
+a:visited {
+  color: orange;
+}
+
+a:hover {
+  color: yellow;
+}
+
+a:link {
+  color: black;
 }
